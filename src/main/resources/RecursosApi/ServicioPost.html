@@ -2,9 +2,75 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Post de la API</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>Verificado</title>
 </head>
 <body>
-    <h1>Hola Mundo Post</h1>
+<nav class="navbar navbar-dar bg-dark">
+    <a style="color: white" class="navbar-toggle"><span class="navbar-toggler-icon"></span></a>
+    <div class="dropdown">
+        <a style="color:white" href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" >Cerrar Session</a>
+        <div class="dropdown-menu text-center">
+            <a>
+                <img src="../imagenes/UsuarioLogin.jpg" height="80" width="80"/>
+            </a>
+            <a>
+                Usuario.
+            </a>
+            <a >
+                <h6 id="nombreUser">Nombre Usuario</h6>
+            </a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" onclick="obtenerServicio.salir()">Salir</a>
+        </div>
+    </div>
+</nav>
+<div>
+    <h1>Programa que permite realizar comentarios máximo de 140 caracteres</h1>
+    <br>
+    <br>
+</div>
+<form>
+    <div>
+        <h2 id="servicio">Espacio para colocar comentario: </h2>
+        <input type="text" id="idtextusuarios" class="form-control" name="usuarios" placeholder="Usuario" required>
+        <input type="text" id="idtextcomentario" class="form-control" name="comentarios" placeholder="Comentario" maxlength="150" required>
+        <button class="btn btn-danger btn-block" type="button" onclick="Servicios.publicarComentario(idtextusuarios.value, idtextcomentario.value)">Publicar comentario</button>
+    </div>
+</form>
+<div >
+    <br>
+    <button class="btn btn-danger btn-block" type="button" onclick="Servicios.getComentarios()">Cargar Comentarios</button>
+</div>
+<div>
+    <br>
+    <h1>Los comentarios actuales son:</h1>
+    <br>
+    <h2 id="idComent0"></h2>
+    <h2 id="idComent1"></h2>
+    <h2 id="idComent2"></h2>
+    <h2 id="idComent3"></h2>
+    <h2 id="idComent4"></h2>
+    <h2 id="idComent5"></h2>
+    <h2 id="idComent6"></h2>
+    <h2 id="idComent7"></h2>
+    <h2 id="idComent8"></h2>
+    <h2 id="idComent9"></h2>
+    <h2 id="idComent10"></h2>
+    <h2 id="idComent11"></h2>
+    <h2 id="idComent12"></h2>
+    <h2 id="idComent13"></h2>
+    <h2 id="idComent14"></h2>
+    <h2 id="idComent15"></h2>
+    <h2 id="idComent16"></h2>
+    <h2 id="idComent17"></h2>
+    <h2 id="idComent18"></h2>
+    <h2 id="idComent19"></h2>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="js/servicio.js"></script>
 </body>
 </html>

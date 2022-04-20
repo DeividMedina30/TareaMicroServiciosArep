@@ -2,10 +2,10 @@ package edu.escuelaing.arep.usuario.entities;
 
 public class User {
     private String password;
-    private String usuario;
+    private String correo;
 
-    public User(String usuario, String password){
-        this.usuario = usuario;
+    public User(String correo, String password){
+        this.correo = correo;
         this.password = password;
     }
 
@@ -17,11 +17,11 @@ public class User {
         this.password = password;
     }
 
-    public String getUsuario() {
-        return usuario;
+    public String getCorreo() {
+        return correo;
     }
 
-    public void setUsuario(String usuario) {
-        this.usuario = usuario;
+    public void setCorreo(String correo) {
+        this.correo = correo;
     }
 }

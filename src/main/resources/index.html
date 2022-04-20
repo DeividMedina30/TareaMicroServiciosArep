@@ -14,12 +14,12 @@
             <p><strong>Bienvenidos al sistema Seguro con Spark</strong></p>
         </div>
         <div class="form-group">
-            <label>Usuario:</label>
-            <input id="usermameid" class="form-control" type="text" name="txtname" placeholder="Ingrese su usuario.">
+            <label>Correo:</label>
+            <input id="usermameid" class="form-control" type="text" name="txtname" placeholder="Ingrese su correo.">
         </div>
         <div class="form-group">
             <label>Password:</label>
-            <input id="userPasswordid" class="form-control" type="password" name="passClave" placeholder="Ingrese su clave.">
+            <input id="userPasswordid" class="form-control" type="password" name="passClave" autocomplete="on" placeholder="Ingrese su clave.">
         </div>
         <button class="btn btn-danger btn-block" type="button" onclick="Servicios.login(usermameid.value , userPasswordid.value)">Login</button>
     </form>
@@ -29,5 +29,6 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="js/index.js"></script>
+
 </body>
 </html>
