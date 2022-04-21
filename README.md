@@ -33,6 +33,8 @@ Para la Tarea usted debe:
 
 ### Descripción
 
+Se creo un servicio principal de facil acceso donde se pueden hacer comentarios para facilitar la interacción entre los usuarios, ademas es un servicio seguro ya que se esta usando validaciones de usuarios y contraseña
+
 
 ### Entregables
 
@@ -41,6 +43,8 @@ Para la Tarea usted debe:
 3) y un video con el experimento funcionando y bien configurado.
 
 ### Desarrollo
+
+Se creo inicialmente el monolito con los servicios para entender su funcionamiento de forma general, una vez se comprendio se dividio en 3 microservicios(login, post, feed) para facilitar su crecimiento, con esto llegamos a la arquitectura actual donde es facil entenderla y  saber que responsabilidades tiene cada uno, addemas de esto el servicio de autenticación usado es aws cognito el cual permite registrar usuarios y validarlos para asegurarnos que tenemos la seguridad necesaria para la aplicación, una vez se valida el usuario se crea un token para facilitar las siguientes peticiones.
 
 ### AWS
 se repiten lo sismo pasos para cada una de las maquncas y se crean 3 EC2 en donde en cada una se monta un servidor utilizado para 
