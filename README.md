@@ -149,3 +149,6 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 4)   IDE de java.
 
 ### Solucion.
+
+Esta solucion es una muestra del funcionamiento de las nuevas tendencias de uso de rest api donde se dividen las funciones en diferentes proyectos para asi poder diseñar soluciones mas desacopladas, escalables y facilitar el mantenimiento de las mismas
+![](https://postimg.cc/YLvwBxFr)
