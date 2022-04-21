@@ -3,7 +3,7 @@
 # Repositorios Relacionados:
 - https://github.com/DeividMedina30/tareaArepMicroServicioFeed.git
 - https://github.com/DeividMedina30/TareaArepMicroServiciosPost.git
-- um
+- https://github.com/DeividMedina30/LoginAwsCognito.git
 
 ## Autores: 
 - Deivid Sebastian Medina
@@ -33,7 +33,9 @@ Para la Tarea usted debe:
 
 ### Descripción
 
-Se creo un servicio principal de facil acceso donde se pueden hacer comentarios para facilitar la interacción entre los usuarios, ademas es un servicio seguro ya que se esta usando validaciones de usuarios y contraseña
+Se creo un servicio principal de facil acceso donde se pueden hacer comentarios para facilitar la interacción entre los usuarios, ademas es un servicio seguro ya que se esta usando validaciones de usuarios y contraseña. 
+se utilizaron los tutoriales de node.js y cognito para el desarrollo del proyecto: 
+- https://www.youtube.com/watch?v=AQfA7OQEMqg&list=PLPMbb3KXRmigGdxkvrGfR4RmsU4J78_BQ
 
 
 ### Entregables
