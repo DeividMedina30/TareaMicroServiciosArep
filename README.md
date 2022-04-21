@@ -80,6 +80,48 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 
 #### Cognito: 
 
+![](https://i.postimg.cc/LXcSLGd6/Capture1.png)
+
+![](https://i.postimg.cc/2jWrrjvq/Capture2.png)
+
+![](https://i.postimg.cc/5NM10cqs/Capture3.png)
+
+![](https://i.postimg.cc/CLH0nvcS/Capture4.png)
+
+![](https://i.postimg.cc/CxcVmRy2/Capture5.png)
+
+![](https://i.postimg.cc/k5DPZ7qg/Capture6.png)
+
+![](https://i.postimg.cc/43MRRjxb/Capture7.png)
+
+![](https://i.postimg.cc/PJnGPZZC/Capture8.png)
+
+![](https://i.postimg.cc/brx7bJH3/Capture9.png)
+
+![](https://i.postimg.cc/xjLDBxDM/Capture10.png)
+
+![](https://i.postimg.cc/HsHDmwdK/Capture11.png)
+
+![](https://i.postimg.cc/jSFFDPYR/Whats-App-Image-2022-04-20-at-11-41-08-PM.jpg)
+
+![](https://i.postimg.cc/vmxSfTGf/Whats-App-Image-2022-04-20-at-11-42-28-PM.jpg)
+
+![](https://i.postimg.cc/RFcspY60/Whats-App-Image-2022-04-20-at-11-42-40-PM.jpg)
+
+![](https://i.postimg.cc/90Cx6BZY/Whats-App-Image-2022-04-20-at-11-43-16-PM.jpg)
+
+![](https://i.postimg.cc/qqwm4CGV/Whats-App-Image-2022-04-20-at-11-43-31-PM.jpg)
+
+![](https://i.postimg.cc/NGkC1WvJ/Whats-App-Image-2022-04-20-at-11-43-56-PM.jpg)
+
+![](https://i.postimg.cc/KvcqQJZZ/Whats-App-Image-2022-04-20-at-11-44-52-PM.jpg)
+
+![](https://i.postimg.cc/J4TTFZnj/Whats-App-Image-2022-04-20-at-11-45-16-PM.jpg)
+
+![](https://i.postimg.cc/9Xb14Zys/Whats-App-Image-2022-04-20-at-11-46-53-PM.jpg)
+
+![](https://i.postimg.cc/CLK7b5N5/Whats-App-Image-2022-04-20-at-11-48-00-PM.jpg)
+
 #### S3
 
 ### Requisitos:
