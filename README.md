@@ -6,9 +6,9 @@
 - um
 
 ## Autores: 
-> Deivid Sebastian Medina
-> Jonathan Camilo Pulido
-> Eduardo Ospina Mejia 
+- Deivid Sebastian Medina
+- Jonathan Camilo Pulido
+- Eduardo Ospina Mejia 
 
 ### Introduccion.
 
