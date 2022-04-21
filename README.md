@@ -5,6 +5,10 @@
 - https://github.com/DeividMedina30/TareaArepMicroServiciosPost.git
 - https://github.com/DeividMedina30/LoginAwsCognito.git
 
+1. El primer repositorio contiene la lógica para poder cargas los comentarios que se lleguen a almacenar.
+2. El segundo repositorio contiene la lógica para poder insertar nuevos comentarios, el cual se conecta con el primer repositorio.
+3. Finalmente el tercer repositorio contiene toda la lógica para poder realizar la conexión con Aws Cognito 
+
 ## Autores: 
 - Deivid Sebastian Medina
 - Jonathan Camilo Pulido
@@ -15,12 +19,12 @@
 Para la Tarea usted debe:
 
 1) En grupos de máximo 3.
-2) Diseñe un API y cree un monolito  Web en Spark que permita a los usuarios hacer posts de 140 caracteres e ir registrandolos en un stream único de posts (a la Twitter). Piense en tres entidades Usuario, hilo(stream), posts.
+2) Diseñe una API y cree un monolito Web en Spark que permita a los usuarios hacer posts de 140 caracteres e ir registrandolos en un stream único de posts (a la Twitter). Piense en tres entidades Usuario, hilo(stream), posts.
 3) Separe el monolito en tres microservicios independientes.
-4) Cree un aplicación JS para usar el servicio. Depliegue la aplicación en S3. Asegúrese que esté disponible sobre internet.
+4) Cree una aplicación JS para usar el servicio. Despliegue la aplicación en S3. Asegúrese que esté disponible sobre internet.
 5) Pruebe la aplicación Web
 6) Agregue seguridad usando JWT con el servicio cognito de AWS.
-7) Despliegue el seervicio en AWS con EC2 y realice pruebas.
+7) Despliegue el servicio en AWS con EC2 y realice pruebas.
     
 
 ### Pre Requisitos
@@ -33,7 +37,7 @@ Para la Tarea usted debe:
 
 ### Descripción
 
-Se creo un servicio principal de facil acceso donde se pueden hacer comentarios para facilitar la interacción entre los usuarios, ademas es un servicio seguro ya que se esta usando validaciones de usuarios y contraseña. 
+Se creo un servicio principal de fácil acceso donde se pueden hacer comentarios para facilitar la interacción entre los usuarios, ademas es un servicio seguro ya que se esta usando validaciones de usuarios y contraseña. 
 se utilizaron los tutoriales de node.js y cognito para el desarrollo del proyecto: 
 - https://www.youtube.com/watch?v=AQfA7OQEMqg&list=PLPMbb3KXRmigGdxkvrGfR4RmsU4J78_BQ
 
@@ -67,8 +71,8 @@ Se creo inicialmente el monolito con los servicios para entender su funcionamien
 ![](https://i.postimg.cc/j5HXsJhq/Whats-App-Image-2022-04-21-at-12-06-48-AM.jpg)
 
 ### AWS
-se repiten lo sismo pasos para cada una de las maquncas y se crean 3 EC2 en donde en cada una se monta un servidor utilizado para 
-solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los procedimientos necesarios. 
+se repiten los mismos pasos para cada una de las maquinas y se crean 3 EC2 en donde en cada una se monta un servidor utilizado para 
+solucionar el proyecto completamente, los siguientes screenshots muestran los procedimientos necesarios. 
 
 ![](https://i.postimg.cc/Wpy9TnHn/Capture1.png)
 
@@ -177,8 +181,8 @@ Esta solucion es una muestra del funcionamiento de las nuevas tendencias de uso 
 
 ### LIMITACIONES.
 
-En las limitaciones encontramos que no logramos vincular completamente la pagina donde cargamos los comentarios
-con la de aws Cognito, por otra parte podemo ver limitaciones por parte del framework Spark.
+En las limitaciones encontramos que no logramos vincular completamente la página donde cargamos los comentarios
+con la de aws Cognito, por otra parte podemos ver limitaciones por parte del framework Spark.
 Ya que se realizó una búsqueda extensiva de como implementar la parte de cognito. Pero en ninguna parte
 se encontró nada.
 
