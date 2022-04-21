@@ -23,7 +23,7 @@ Para la Tarea usted debe:
 7) Despliegue el seervicio en AWS con EC2 y realice pruebas.
     
 
-#### Pre Requisitos
+### Pre Requisitos
 
 1) El estudiante conoce Java, Maven
 2) El estudiante sabe desarrollar aplicaciones web en Java
@@ -31,10 +31,10 @@ Para la Tarea usted debe:
 4) Tiene conocimiento de manejo de EC2
 5) Tiene conocimientos de manejo de aws Cognito.
 
-#### Descripción
+### Descripción
 
 
-#### Entregables
+### Entregables
 
 1) Entregue el código desarrollado en Github.
 2) un reporte de las pruebas.
