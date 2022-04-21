@@ -173,3 +173,21 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 Esta solucion es una muestra del funcionamiento de las nuevas tendencias de uso de rest api donde se dividen las funciones en diferentes proyectos para asi poder diseñar soluciones mas desacopladas, escalables y facilitar el mantenimiento de las mismas
 
 ![](https://i.postimg.cc/hvr4xyPd/Arep.png)
+
+
+### LIMITACIONES.
+
+En las limitaciones encontramos que no logramos vincular completamente la pagina donde cargamos los comentarios
+con la de aws Cognito, por otra parte podemo ver limitaciones por parte del framework Spark.
+Ya que se realizó una búsqueda extensiva de como implementar la parte de cognito. Pero en ninguna parte
+se encontró nada.
+
+### EXTENDER.
+
+Para la parte de extensión podemos llegar a preferir implementar una mejor interfaz por parte del login,
+ya que no estamos creando una interfaz para crear nuevos usuarios, sino por medios de post, finalmente
+podríamos crear nuevas funcionalidades como eliminar comentarios, actualizar comentarios entre otros.
+
+### Licencia.
+
+Este laboratorio esta bajo la licencia de GNU GENERAL PUBLIC LICENSE.
