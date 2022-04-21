@@ -74,17 +74,10 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 
 ![](https://i.postimg.cc/FRMDgFc6/Capture14.png)
 
-![](https://i.postimg.cc/kGWwjrvg/Capture15.png)
+#### Cognito: 
 
-![](https://i.postimg.cc/wxNWxJYY/Capture16.png)
+#### S3
 
-![](https://i.postimg.cc/tCHBsT9Z/Capture17.png)
-
-![](https://i.postimg.cc/zXS0Krfd/Capture18.png)
-
-![](https://i.postimg.cc/Dwx6pPLL/Capture19.png)
-
-![](https://i.postimg.cc/qR3GRfYx/Capture20.png)
 ### Requisitos:
 1)   [Java 8](https://www.java.com/download/ie_manual.jsp)
 2)   [Maven](https://maven.apache.org/download.cgi)
