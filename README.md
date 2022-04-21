@@ -4,10 +4,12 @@
 - https://github.com/DeividMedina30/tareaArepMicroServicioFeed.git
 - https://github.com/DeividMedina30/TareaArepMicroServiciosPost.git
 - https://github.com/DeividMedina30/LoginAwsCognito.git
+- https://github.com/DeividMedina30/TareaMicroServiciosArep.git
 
 1. El primer repositorio contiene la lógica para poder cargas los comentarios que se lleguen a almacenar.
 2. El segundo repositorio contiene la lógica para poder insertar nuevos comentarios, el cual se conecta con el primer repositorio.
-3. Finalmente el tercer repositorio contiene toda la lógica para poder realizar la conexión con Aws Cognito 
+3. El tercer repositorio contiene toda la lógica para poder realizar la conexión con Aws Cognito
+4. Por ultimo el cuarto repositorio contiene la lógica de la conexión del servicio que ofrecen 1 y 2, por medio de un front.
 
 ## Autores: 
 - Deivid Sebastian Medina
