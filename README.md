@@ -122,7 +122,25 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 
 ![](https://i.postimg.cc/CLK7b5N5/Whats-App-Image-2022-04-20-at-11-48-00-PM.jpg)
 
+![](https://i.postimg.cc/VvJSLxqf/Whats-App-Image-2022-04-20-at-11-51-39-PM.jpg)
+
 #### S3
+
+![](https://i.postimg.cc/wvGvPwSS/Captures1.png)
+
+![](https://i.postimg.cc/V5yNsdsg/Captures2.png)
+
+![](https://i.postimg.cc/MZnbGNKf/Captures3.png)
+
+![](https://i.postimg.cc/fW17SCJ2/Captures4.png)
+
+![](https://i.postimg.cc/dtd22CCq/Captures5.png)
+
+![](https://i.postimg.cc/4xgzB3vp/Captures6.png)
+
+![](https://i.postimg.cc/0y073qZF/Captures7.png)
+
+![](https://i.postimg.cc/8CyMpB2b/Captures8.png)
 
 ### Requisitos:
 1)   [Java 8](https://www.java.com/download/ie_manual.jsp)
