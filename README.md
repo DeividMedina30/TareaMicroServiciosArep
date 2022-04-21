@@ -46,6 +46,24 @@ Se creo un servicio principal de facil acceso donde se pueden hacer comentarios 
 
 Se creo inicialmente el monolito con los servicios para entender su funcionamiento de forma general, una vez se comprendio se dividio en 3 microservicios(login, post, feed) para facilitar su crecimiento, con esto llegamos a la arquitectura actual donde es facil entenderla y  saber que responsabilidades tiene cada uno, addemas de esto el servicio de autenticación usado es aws cognito el cual permite registrar usuarios y validarlos para asegurarnos que tenemos la seguridad necesaria para la aplicación, una vez se valida el usuario se crea un token para facilitar las siguientes peticiones.
 
+![](https://i.postimg.cc/zvqk3XdC/Whats-App-Image-2022-04-21-at-12-08-45-AM.jpg)
+
+![](https://i.postimg.cc/fTTKNySZ/Whats-App-Image-2022-04-21-at-12-09-58-AM.jpg)
+
+![](https://i.postimg.cc/Vv9HHVhR/Whats-App-Image-2022-04-20-at-11-58-52-PM.jpg)
+
+![](https://i.postimg.cc/vHMK6G1S/Whats-App-Image-2022-04-21-at-12-00-55-AM.jpg)
+
+![](https://i.postimg.cc/xdkpSC7q/Whats-App-Image-2022-04-21-at-12-03-47-AM.jpg)
+
+![](https://i.postimg.cc/FK2WFv5p/Whats-App-Image-2022-04-21-at-12-05-06-AM.jpg)
+
+![](https://i.postimg.cc/sfP6zbnP/Whats-App-Image-2022-04-21-at-12-05-45-AM.jpg)
+
+![](https://i.postimg.cc/XvyLzPGC/Whats-App-Image-2022-04-21-at-12-06-17-AM.jpg)
+
+![](https://i.postimg.cc/j5HXsJhq/Whats-App-Image-2022-04-21-at-12-06-48-AM.jpg)
+
 ### AWS
 se repiten lo sismo pasos para cada una de las maquncas y se crean 3 EC2 en donde en cada una se monta un servidor utilizado para 
 solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los procedimientos necesarios. 
@@ -151,4 +169,5 @@ solucionar el proyecto ocmpletmanete, los siguientes screenshots muestran los pr
 ### Solucion.
 
 Esta solucion es una muestra del funcionamiento de las nuevas tendencias de uso de rest api donde se dividen las funciones en diferentes proyectos para asi poder diseñar soluciones mas desacopladas, escalables y facilitar el mantenimiento de las mismas
+
 ![](https://i.postimg.cc/hvr4xyPd/Arep.png)
