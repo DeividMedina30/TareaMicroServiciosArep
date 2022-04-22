@@ -180,6 +180,32 @@ Esta solucion es una muestra del funcionamiento de las nuevas tendencias de uso 
 
 ![](https://i.postimg.cc/hvr4xyPd/Arep.png)
 
+#### Implementacion aws:
+
+![](https://i.postimg.cc/h4Cq0kcP/Whats-App-Image-2022-04-21-at-11-10-25-PM.jpg)
+
+![](https://i.postimg.cc/02b1XVyG/Whats-App-Image-2022-04-21-at-11-10-34-PM.jpg)
+
+![](https://i.postimg.cc/nhmbpM7C/Whats-App-Image-2022-04-21-at-11-10-42-PM.jpg)
+
+![](https://i.postimg.cc/sXDNQ2BP/Whats-App-Image-2022-04-21-at-11-11-11-PM.jpg)
+
+![](https://i.postimg.cc/G27Sk1YW/Whats-App-Image-2022-04-21-at-11-11-44-PM.jpg)
+
+![](https://i.postimg.cc/rsDZjYNK/Whats-App-Image-2022-04-21-at-11-12-03-PM.jpg)
+
+![](https://i.postimg.cc/cCP9bMFT/Whats-App-Image-2022-04-21-at-11-12-45-PM.jpg)
+
+![](https://i.postimg.cc/Y2Ps0Mtg/Whats-App-Image-2022-04-21-at-11-13-21-PM.jpg)
+
+![](https://i.postimg.cc/Mp2305Mp/Whats-App-Image-2022-04-21-at-11-13-50-PM.jpg)
+
+![](https://i.postimg.cc/QdQ4f71k/Whats-App-Image-2022-04-21-at-11-17-23-PM.jpg)
+
+## Video: 
+
+video de corrido en vivo de esta pruebas se encuentra dentor de la carpeta videofuncionAWS.
+
 
 ### LIMITACIONES.
 
